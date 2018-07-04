@@ -2,6 +2,9 @@
 
 # Papers
 
+### Generalization
+- Identifying and attacking the saddle point problem in high-dimensional non-convex optimization
+
 ### Reparameterization
 - Implicit Reparameterization Gradients
 

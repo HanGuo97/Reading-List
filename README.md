@@ -1,5 +1,3 @@
-# NLP-Resources
-
 # Papers
 
 ### Generalization

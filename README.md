@@ -1,13 +1,10 @@
 # NLP-Resources
 
-# ToolKits
-- AllenNLP
-- Semantics
-- spaCy
-- [Wit.ai](https://wit.ai) extracting named entities
-- [Duckling](https://github.com/facebook/duckling) parses text into structured data.
-
 # Papers
+
+### Reparameterization
+- Implicit Reparameterization Gradients
+
 ### Interpretable Models
 - Measuring the Intrinsic Dimension of Objective Landscapes
 
@@ -50,12 +47,10 @@
 ### Sequential Models
 - Supervised Sequence Labelling with Recurrent Neural Networks
 
-                                                                                                                                           
 
-                                                                                                                                           
-                                                                                                                                           
-
-                                                                                                                                           
-
-                                                                                                                                           
-                                                                                                                                           
+# ToolKits
+- AllenNLP
+- Semantics
+- spaCy
+- [Wit.ai](https://wit.ai) extracting named entities
+- [Duckling](https://github.com/facebook/duckling) parses text into structured data.

@@ -8,6 +8,7 @@
 
 ### Interpretable Models
 - Measuring the Intrinsic Dimension of Objective Landscapes
+- Insights on representational similarity in neural networks with canonical correlation
 
 ### Variational Methods
 - Variational Inference and Deep Learning: A New Synthesis

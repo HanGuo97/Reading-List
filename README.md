@@ -14,6 +14,7 @@
 - Variational Inference and Deep Learning: A New Synthesis
 - Auto-Encoding Variational Bayes
 - An Introduction to Variational Methods for Graphical Models
+- Variational Inference: A Review for Statisticians
 
 
 ### Discrete Latent Space

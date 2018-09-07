@@ -16,6 +16,8 @@
 - An Introduction to Variational Methods for Graphical Models
 - Variational Inference: A Review for Statisticians
 
+### Bayesian Optimization
+- A Tutorial on Thompson Sampling
 
 ### Discrete Latent Space
 - Neural Discrete Representation Learning

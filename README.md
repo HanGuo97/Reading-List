@@ -1,5 +1,12 @@
 # Papers
 
+### Language Model Pre-training
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+- Improving Language Understanding by Generative Pre-Training
+
+### Distributional Reinforcement Learning
+- A Distributional Perspective on Reinforcement Learning
+
 ### Generalization
 - Identifying and attacking the saddle point problem in high-dimensional non-convex optimization
 

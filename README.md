@@ -25,6 +25,7 @@
 
 ### Bayesian Optimization
 - A Tutorial on Thompson Sampling
+- [Lectures](https://www.youtube.com/watch?v=YB64VoGQsK8) on [Bayesian Optimization](https://www.youtube.com/watch?v=VtM7ylGHtF4) by Nando de Freitas.
 
 ### Discrete Latent Space
 - Neural Discrete Representation Learning

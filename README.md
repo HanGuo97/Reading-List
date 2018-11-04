@@ -30,11 +30,13 @@
 - Taking the Human Out of the Loop: A Review of Bayesian Optimization
 - Practical Bayesian Optimization of Machine Learning Algorithms
 
+### Applications
+- Horizon: Facebook's Open Source Applied Reinforcement Learning Platform
+
 ### Discrete Latent Space
 - Neural Discrete Representation Learning
 - The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables
 - Categorical Reparameterization with Gumbel-Softmax
-
 
 ### Policy Gradients
 - Trust Region Policy Optimization

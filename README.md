@@ -29,6 +29,7 @@
 - [Lectures] Introduction to Gaussian Processes, [MLSS 2012](https://www.youtube.com/watch?v=BS4Wd5rwNwE), [ML@UBC](https://www.youtube.com/watch?v=4vGiHC35j9s) [by](https://www.youtube.com/watch?v=MfHKW5z-OOA&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&t=2257s&index=10) [Nando de Freitas](https://www.youtube.com/watch?v=vz3D36VXefI&index=10&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6).
 - Taking the Human Out of the Loop: A Review of Bayesian Optimization
 - Practical Bayesian Optimization of Machine Learning Algorithms
+- Gaussian Processes for Machine Learning
 
 ### Applications
 - Horizon: Facebook's Open Source Applied Reinforcement Learning Platform

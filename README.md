@@ -1,5 +1,8 @@
 # Papers
 
+### Hyper-Parameter Optimization
+- ML@CMU on [Massively Parallel Hyperparameter Optimization](https://blog.ml.cmu.edu/2018/12/12/massively-parallel-hyperparameter-optimization/)
+
 ### Language Model Pre-training
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 - Improving Language Understanding by Generative Pre-Training

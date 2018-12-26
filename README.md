@@ -2,7 +2,7 @@
 
 ### Hyper-Parameter Optimization
 - ML@CMU on [Massively Parallel Hyperparameter Optimization](https://blog.ml.cmu.edu/2018/12/12/massively-parallel-hyperparameter-optimization/)
-- [Gradient-based Hyperparameter Optimization through Reversible Learning](https://arxiv.org/pdf/1502.03492.pdf)
+- [Gradient-based Hyperparameter Optimization through Reversible Learning](https://arxiv.org/abs/1502.03492)
 
 ### Language Model Pre-training
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding

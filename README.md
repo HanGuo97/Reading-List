@@ -64,9 +64,6 @@
 ### Markov Models
 - A tutorial on hidden Markov models and selected applications in speech recognition
 
-### Program Synthesis
-- Supervised Sequence Labelling with Recurrent Neural Networks
-
 ### Sequential Models
 - Supervised Sequence Labelling with Recurrent Neural Networks
 

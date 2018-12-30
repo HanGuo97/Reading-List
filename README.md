@@ -81,5 +81,5 @@
 ### Vision
 - [Detectron](https://github.com/facebookresearch/Detectron)
 
-### AutoMR
+### AutoML
 - [transmogrif](https://transmogrif.ai)

@@ -82,4 +82,4 @@
 - [Detectron](https://github.com/facebookresearch/Detectron)
 
 ### AutoML
-- [transmogrif](https://transmogrif.ai)
+- [TransmogrifAI](https://transmogrif.ai)

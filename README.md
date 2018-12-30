@@ -69,9 +69,13 @@
 
 
 # ToolKits
+### NLP
 - AllenNLP
 - Semantics
 - spaCy
 - [Wit.ai](https://wit.ai) extracting named entities
 - [Duckling](https://github.com/facebook/duckling) parses text into structured data.
 - [Tensorflow Seedbanks](http://tools.google.com/seedbank/)
+
+### Vision
+- [Detectron](https://github.com/facebookresearch/Detectron)

@@ -78,6 +78,9 @@
 - [Duckling](https://github.com/facebook/duckling) parses text into structured data.
 - [Tensorflow Seedbanks](http://tools.google.com/seedbank/)
 
+### Distributed
+- [Ray: A Distributed Framework for Emerging AI Applications](https://github.com/ray-project/ray)
+
 ### Vision
 - [Detectron](https://github.com/facebookresearch/Detectron)
 

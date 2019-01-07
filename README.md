@@ -35,9 +35,6 @@
 - Practical Bayesian Optimization of Machine Learning Algorithms
 - Gaussian Processes for Machine Learning
 
-### Applications
-- Horizon: Facebook's Open Source Applied Reinforcement Learning Platform
-
 ### Discrete Latent Space
 - Neural Discrete Representation Learning
 - The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables
@@ -78,8 +75,10 @@
 - [Duckling](https://github.com/facebook/duckling) parses text into structured data.
 - [Tensorflow Seedbanks](http://tools.google.com/seedbank/)
 
-### Distributed
+### Frameworks
 - [Ray: A Distributed Framework for Emerging AI Applications](https://github.com/ray-project/ray)
+- [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://github.com/facebookresearch/Horizon)
+- [Nevergrad - A gradient-free optimization platform](https://github.com/facebookresearch/nevergrad)
 
 ### Vision
 - [Detectron](https://github.com/facebookresearch/Detectron)

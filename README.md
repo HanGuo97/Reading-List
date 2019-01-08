@@ -9,7 +9,7 @@
 - Improving Language Understanding by Generative Pre-Training
 
 ### Wasserstein
-- Explanation from [Edinburgh](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/RUBNER/emd.htm)
+- Explanation of Earth Mover’s Distance from [Edinburgh](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/RUBNER/emd.htm)
 
 ### Distributional Reinforcement Learning
 - A Distributional Perspective on Reinforcement Learning

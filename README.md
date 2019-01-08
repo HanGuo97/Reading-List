@@ -8,6 +8,9 @@
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 - Improving Language Understanding by Generative Pre-Training
 
+### Wasserstein
+- Explanation from [Edinburgh](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/RUBNER/emd.htm)
+
 ### Distributional Reinforcement Learning
 - A Distributional Perspective on Reinforcement Learning
 

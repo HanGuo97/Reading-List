@@ -77,6 +77,7 @@
 - [Wit.ai](https://wit.ai) extracting named entities
 - [Duckling](https://github.com/facebook/duckling) parses text into structured data.
 - [Tensorflow Seedbanks](http://tools.google.com/seedbank/)
+- [Texar](https://texar.io)
 
 ### Frameworks
 - [Ray: A Distributed Framework for Emerging AI Applications](https://github.com/ray-project/ray)

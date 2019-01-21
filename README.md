@@ -80,6 +80,7 @@
 - [Texar](https://texar.io)
 
 ### Frameworks
+- [SURREAL: Open-Source Reinforcement Learning Framework and Robot Manipulation Benchmark](https://surreal.stanford.edu)
 - [Ray: A Distributed Framework for Emerging AI Applications](https://github.com/ray-project/ray)
 - [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://github.com/facebookresearch/Horizon)
 - [Nevergrad - A gradient-free optimization platform](https://github.com/facebookresearch/nevergrad)

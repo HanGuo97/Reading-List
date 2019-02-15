@@ -7,6 +7,7 @@
 ### Language Model Pre-training
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 - Improving Language Understanding by Generative Pre-Training
+- [GPT-2](https://blog.openai.com/better-language-models/#fn3)
 
 ### Wasserstein
 - Explanation of Earth Mover’s Distance from [Edinburgh](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/RUBNER/emd.htm)

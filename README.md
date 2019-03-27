@@ -12,8 +12,9 @@
 - Improving Language Understanding by Generative Pre-Training
 - [GPT-2](https://blog.openai.com/better-language-models/)
 
-### Wasserstein
+### Distance
 - Explanation of Earth Mover’s Distance from [Edinburgh](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/RUBNER/emd.htm)
+- Explanation of maximum mean discrepancy by [Arthur Gretton](https://vimeo.com/53228255).
 
 ### Frameworks
 - [SURREAL: Open-Source Reinforcement Learning Framework and Robot Manipulation Benchmark](https://surreal.stanford.edu)

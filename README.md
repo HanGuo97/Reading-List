@@ -15,6 +15,7 @@
 ### Distance
 - Explanation of Earth Mover’s Distance from [Edinburgh](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/RUBNER/emd.htm)
 - Explanation of maximum mean discrepancy by [Arthur Gretton](https://vimeo.com/53228255).
+- [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
 
 ### Frameworks
 - [SURREAL: Open-Source Reinforcement Learning Framework and Robot Manipulation Benchmark](https://surreal.stanford.edu)

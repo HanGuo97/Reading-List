@@ -94,5 +94,8 @@
 ### Vision
 - [Detectron](https://github.com/facebookresearch/Detectron)
 
+### Experiment Design
+- [Ax](https://ax.dev) and [BoTorch](https://www.botorch.org/?fbclid=IwAR0sGLzbqLrI65IK2dTbpa8zBHE0onMElYEuS4baPlU2uMxy2xvyD74PlxI), described in this [blog](https://ai.facebook.com/blog/open-sourcing-ax-and-botorch-new-ai-tools-for-adaptive-experimentation/)
+
 ### AutoML
 - [TransmogrifAI](https://transmogrif.ai)

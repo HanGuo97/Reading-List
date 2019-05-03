@@ -22,6 +22,7 @@
 - [Ray: A Distributed Framework for Emerging AI Applications](https://github.com/ray-project/ray)
 - [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://github.com/facebookresearch/Horizon)
 - [Nevergrad - A gradient-free optimization platform](https://github.com/facebookresearch/nevergrad)
+- [JAX: Autograd and XLA](https://github.com/google/jax)
 
 ### Distributional Reinforcement Learning
 - A Distributional Perspective on Reinforcement Learning

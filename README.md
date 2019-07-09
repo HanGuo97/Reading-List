@@ -91,6 +91,7 @@
 - [Duckling](https://github.com/facebook/duckling) parses text into structured data.
 - [Tensorflow Seedbanks](http://tools.google.com/seedbank/)
 - [Texar](https://texar.io)
+- [Pythia](https://github.com/facebookresearch/pythia)
 
 ### Vision
 - [Detectron](https://github.com/facebookresearch/Detectron)

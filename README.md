@@ -1,5 +1,11 @@
 # Papers
 
+### Uncertainty
+- Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles
+- On Calibration of Modern Neural Networks
+- Predicting Good Probabilities With Supervised Learning
+- Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods
+
 ### Domain Adaptation
 - Domain-Adversarial Training of Neural Networks
 

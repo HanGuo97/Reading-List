@@ -6,6 +6,7 @@
 - Predicting Good Probabilities With Supervised Learning
 - Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods
 - What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?
+- Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
 - Uncertainty in Deep Learning (Yarin Gal's [PhD Thesis](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html))
 
 ### Domain Adaptation

@@ -5,6 +5,7 @@
 - On Calibration of Modern Neural Networks
 - Predicting Good Probabilities With Supervised Learning
 - Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods
+- Uncertainty in Deep Learning (Yarin Gal's [PhD Thesis](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html))
 
 ### Domain Adaptation
 - Domain-Adversarial Training of Neural Networks

@@ -101,6 +101,7 @@
 - [Tensorflow Seedbanks](http://tools.google.com/seedbank/)
 - [Texar](https://texar.io)
 - [Pythia](https://github.com/facebookresearch/pythia)
+- [Microsoft: NLP Best Practices]https://github.com/microsoft/nlp-recipes
 
 ### Vision
 - [Detectron](https://github.com/facebookresearch/Detectron)

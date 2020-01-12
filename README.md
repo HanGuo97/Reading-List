@@ -15,6 +15,9 @@
 - Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
 - Uncertainty in Deep Learning (Yarin Gal's [PhD Thesis](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html))
 
+### Applied ML
+- Overton: A Data System for Monitoring and Improving Machine-Learned Products
+
 ### Domain Adaptation
 - Domain-Adversarial Training of Neural Networks
 

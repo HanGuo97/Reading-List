@@ -1,9 +1,12 @@
 # Papers
 
+### Approximate Inference
+- 
+
 ### Flows
 - [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/pdf/1912.02762.pdf)
 
-### Uncertainty
+### Uncertainty in Machine Learning
 - Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles
 - On Calibration of Modern Neural Networks
 - Predicting Good Probabilities With Supervised Learning

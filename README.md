@@ -1,7 +1,7 @@
 # Papers
 
 ### Approximate Inference
-- 
+- A Simple Baseline for Bayesian Uncertainty in Deep Learning
 
 ### Flows
 - [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/pdf/1912.02762.pdf)

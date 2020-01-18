@@ -111,6 +111,7 @@
 - [Texar](https://texar.io)
 - [Pythia](https://github.com/facebookresearch/pythia)
 - [Microsoft: NLP Best Practices](https://github.com/microsoft/nlp-recipes)
+- [Google-Trax](https://github.com/google/trax)
 
 ### Vision
 - [Detectron](https://github.com/facebookresearch/Detectron)
